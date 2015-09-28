@@ -14,3 +14,9 @@ So my second idea was to create a parallax wallpaper. A wallpaper splitted into 
 
 Mockup Video on Vimeo:
 [![Slenderman](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/beauty-shot.png)](https://vimeo.com/140646572 "Slenderman")
+
+In the next step I built the case for the wallpaper:
+![Case](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/case-1.jpg)
+
+Colorize...
+![Case](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/case-2.jpg)
