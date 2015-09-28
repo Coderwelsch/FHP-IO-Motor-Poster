@@ -1,7 +1,7 @@
 # Motor Fader
 In the last project of the Input / Output course of the FH Potsdam we had to build an animated wallpaper / picture with the use of Arduino Boards in the *#IoT* style.
 
-At first, my idea was to animate an analogue wallpaper in relation to a very old basic school education film about the behavior in the case of a nuclear disaster. In fact that i am a fan of South Park i chose a south park styled wallpaper. This is a small extract of the educational film:
+At first, my idea was to animate an analogue wallpaper in relation to a very old basic school education film about the behavior in the case of a nuclear disaster. In fact that i am a fan of South Park I chose a south park styled wallpaper. This is a small extract of the educational film:
 
 [![Duck And Cover](http://charlesmccain.com/wp-content/uploads/2014/01/duck-and-cover.jpg)](https://www.youtube.com/watch?v=BFT8hLjHtuE "Duck And Cover")
 
