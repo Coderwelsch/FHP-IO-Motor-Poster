@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Parallax Slender</title>
+
+        <link rel="stylesheet" href="files/css/main.css" charset="utf-8" />
+    </head>
+    <body>
+        <!-- scene -->
+        <ul id="scene">
+            <li class="layer" data-depth="0.01"></li>
+            <li class="layer" data-depth="0.05" data-scalar-x="2"></li>
+            <li class="layer" data-depth="0.10"></li>
+            <li class="layer" data-depth="0.20"></li>
+        </ul>
+
+        <!-- scripts -->
+        <script src="files/js/jquery/jquery-2.1.4.min.js" charset="utf-8"></script>
+        <script src="files/js/jquery/jquery.parallax.min.js" charset="utf-8"></script>
+        <script type="text/javascript">
+            $('#scene').parallax();
+        </script>
+    </body>
+</html>
