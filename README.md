@@ -12,7 +12,7 @@ And this is my first mockup (video):
 After the second consultation with the prof I decided to rethink about my last mockup and do something more interesting.
 
 ## Version 2
-So my second idea was to create a parallax wallpaper. A wallpaper splitted into 3 different layers overlapping each other and moving relatively to the viewers head to gain a 3D looking wallpaper. 
+So my second idea was to create a parallax wallpaper. A wallpaper splitted into 3 different layers overlapping each other and moving relatively to the viewers head to gain a 3D looking wallpaper.
 
 Mockup Video on Vimeo:
 [![Slenderman](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/beauty-shot.png)](https://vimeo.com/140646572 "Slenderman")
@@ -30,3 +30,6 @@ In the next step I built the case for the wallpaper:
 
 Black like the slenderman...
 ![Case](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/case-2.jpg)
+
+Building the flap
+![Flap](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/case-3.jpg)
