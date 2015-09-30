@@ -46,3 +46,7 @@ Recognizing a face and send the face position via usb serial to the arduino:
 ### Building the motor "fader"
 It's  just a stepper motor on a gear rack held with nails :smile:
 ![Face Detection](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/motor-1.jpg)
+
+---
+
+The building is still in progress... See you soon :bowtie:
