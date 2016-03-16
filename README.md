@@ -8,7 +8,7 @@ At first, my idea was to animate an analogue wallpaper in relation to a very old
 [![Duck And Cover](http://charlesmccain.com/wp-content/uploads/2014/01/duck-and-cover.jpg)](https://www.youtube.com/watch?v=BFT8hLjHtuE "Duck And Cover")
 
 And this is my first mockup (video):
-[![Duck And Cover](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/dock-and-cover.png)](https://vimeo.com/140643901 "Duck And Cover")
+[![Duck And Cover](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/dock-and-cover.jpg)](https://vimeo.com/140643901 "Duck And Cover")
 
 After the second consultation with the prof I decided to rethink about my last mockup and do something more interesting.
 
@@ -16,7 +16,7 @@ After the second consultation with the prof I decided to rethink about my last m
 So my second idea was to create a parallax wallpaper. A wallpaper splitted into 3 different layers overlapping each other and moving relatively to the viewers head to gain a 3D looking wallpaper.
 
 Mockup Video on Vimeo:
-[![Slenderman](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/beauty-shot.png)](https://vimeo.com/140646572 "Slenderman")
+[![Slenderman](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/beauty-shot.jpg)](https://vimeo.com/140646572 "Slenderman")
 
 Or check out the interactive version: [Click here](https://www.coderwelsch.com/files/projects/eingabe-ausgabe/slender-man/index.html)
 
@@ -38,7 +38,7 @@ The finished case:
 ![Flap](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/case-4.jpg)
 
 ### Writing the face detection on a raspberry pi
-![Face Detection](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/face-detection-1.png)
+![Face Detection](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/face-detection-1.jpg)
 
 Recognizing a face and send the face position via usb serial to the arduino:
 ![Face Detection](https://raw.githubusercontent.com/Coderwelsch/IO-Motor-Poster/master/assets/face-detection-2.jpg)
